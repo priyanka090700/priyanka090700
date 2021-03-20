@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hii, I'm [Priyanka Lodhi!](https://www.linkedin.com/in/priyanka-lodhi-a60a56187/) 👋
 
-<!--
-**priyanka090700/priyanka090700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka090700&label=Views&color=blue&style=plastic" alt="priyanka090700" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/Priyank75425766">  
+  <img align="left" alt="Priyanka's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/priyanka-lodhi-a60a56187/">
+  <img align="left" alt="Priyanka's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/priyanka090700">
+  <img align="left" alt="Priyanka's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/">
+  <img align="left" alt="Priyanka's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com//">
+  <img align="left" alt="Priyanka's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently student in [AKTU University](https://aktu.ac.in/) pursuing B.Tech in Computer Science.
+- 🌱 I’m currently learning more about Android Development.
+- 👯 I’m looking to collaborate in [Github]
+- 🤔 I’m looking for help with Image Processing and AR/VR.
+- 💬 Ask me about Java or any tech related stuff.
+- 📫 How to reach me: [Gmail - lodhipriyanka907@gmail.com]
+
+
+
+<a href="https://github.com/priyanka090700">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka090700&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/priyanka090700">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka090700&show_icons=true&theme=light&line_height=27" alt="Aman's github stats"/>
+</a>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories and following me!
+
+</div>

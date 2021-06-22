@@ -1,5 +1,9 @@
 ## Hii, I'm [Priyanka Lodhi!](https://www.linkedin.com/in/priyanka-lodhi-a60a56187/) 👋
 
+<p align="center">
+  <a href="https://github.com/priyanka090700"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Android +Developer;Hardworking%2C+Passionate+%26+Determined;Always+learning+new+things&center=true&width=380&height=45"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka090700&label=Views&color=blue&style=plastic" alt="priyanka090700" /> </p>
 
 <a href="https://twitter.com/Priyank75425766">  

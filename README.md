@@ -30,7 +30,7 @@
 - 🔭 I’m currently student in [AKTU University](https://aktu.ac.in/) pursuing B.Tech in Computer Science.
 - 🌱 I’m currently learning more about Android Development.
 - 👯 I’m looking to collaborate in [Github]
-- 🤔 I’m looking for help with Image Processing and AR/VR.
+- 🤔 I’m looking for help with Image Processing and Computer Vision.
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: [Gmail - lodhipriyanka907@gmail.com]
 

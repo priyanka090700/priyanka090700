@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/priyanka090700"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Android +Developer;Hardworking%2C+Passionate+%26+Determined;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=170D92&center=true&vCenter=true&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills+and+enhancing+old+ones.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka090700&label=Views&color=blue&style=plastic" alt="priyanka090700" /> </p>
 

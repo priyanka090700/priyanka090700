@@ -1,7 +1,7 @@
 ## Hii, I'm [Priyanka Lodhi!](https://www.linkedin.com/in/priyanka-lodhi-a60a56187/) 👋
 
 <p align="center">
-  <a href="https://github.com/priyanka090700"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&center=true&vCenter=true&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills+and+enhancing+old+ones&width=380&height=45"></a>
+  <a href="https://github.com/priyanka090700"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills+and+enhancing+old+ones&width=380&height=45"></a>
 </p>
 
 

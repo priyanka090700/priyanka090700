@@ -34,7 +34,8 @@
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: [Gmail - lodhipriyanka907@gmail.com]
 
-
+### Current Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanka090700&theme=blue-green&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
 
 <a href="https://github.com/priyanka090700">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka090700&theme=light&hide_langs_below=1" />
